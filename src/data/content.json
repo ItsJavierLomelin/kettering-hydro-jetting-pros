@@ -2,8 +2,7 @@
   "severe-grease-and-sludge": {
     "h1": "Hydro Jetting for Grease and Sludge in Kettering, OH",
     "intro": "A kitchen line that keeps slowing down may need more than a path punched through the blockage. Tell us about heavy kitchen use, food waste and how long the last cleaning held.",
-    "lead": [],
-    "blurb": "Heavy kitchen use, food waste and congealed buildup that keeps coming back.",
+    "blurb": "Heavy kitchen use, food waste and congealed buildup that keeps coming back. ",
     "icon": "drop",
     "sections": [
       {
@@ -49,7 +48,6 @@
   "tree-root-intrusions": {
     "h1": "Hydro Jetting for Tree Roots in Kettering, OH",
     "intro": "Root trouble needs two answers: how to clear the line and whether the pipe has a defect that let the roots in. Tell us where roots were found and what happened afterward.",
-    "lead": [],
     "blurb": "Roots that enter at a joint, slow the line and return after a cleaning.",
     "icon": "leaf",
     "sections": [
@@ -96,7 +94,6 @@
   "recurring-clogs-and-slow-drains": {
     "h1": "Hydro Jetting for Recurring Clogs in Kettering, OH",
     "intro": "A drain that slows again after cleaning needs a fresh look. Note how long the improvement lasted and whether one fixture or several are affected.",
-    "lead": [],
     "blurb": "A drain that clears, then slows again, on one fixture or the whole house.",
     "icon": "repeat",
     "sections": [
@@ -137,7 +134,6 @@
   "mineral-and-scale-deposits": {
     "h1": "Hydro Jetting for Mineral Buildup in Kettering, OH",
     "intro": "A slow drain does not mean a hard deposit is present. A qualified professional should identify the material and check the pipe before choosing a cleaning method.",
-    "lead": [],
     "blurb": "Hard deposits that narrow a pipe and do not respond to ordinary cleaning.",
     "icon": "layers",
     "sections": [
@@ -178,7 +174,6 @@
   "preventative-maintenance": {
     "h1": "Preventative Hydro Jetting in Kettering, OH",
     "intro": "Plan cleaning around a record of past drain trouble, not a fixed rule that every pipe needs the same schedule. Keep notes on repeat blockages and any inspection findings.",
-    "lead": [],
     "blurb": "A cleaning schedule based on the line's own history, not a guess.",
     "icon": "shield",
     "sections": [
@@ -219,7 +214,6 @@
   "how-hydro-jetting-works": {
     "h1": "How Hydro Jetting Works in Kettering, OH",
     "intro": "Hydro jetting aims high-pressure water at a blockage or buildup inside a sewer pipe. The professional picks the nozzle and method for the actual line.",
-    "lead": [],
     "sections": [
       {
         "h": "How does jetting differ from rodding?",
@@ -264,7 +258,6 @@
   "hydro-jetting-vs-snaking": {
     "h1": "Hydro Jetting vs Snaking in Kettering, OH",
     "intro": "Water jetting and mechanical drain cleaning work differently. The right choice depends on the obstruction, the line and what an inspection shows.",
-    "lead": [],
     "sections": [
       {
         "h": "What is the difference between the methods?",
@@ -309,7 +302,6 @@
   "/": {
     "h1": "Hydro Jetting for Kettering Sewer and Drain Lines",
     "intro": "Kettering grew out of Van Buren Township in the 1950s, and the housing runs from 1920s neighborhoods to wartime planned communities. Age alone does not tell you what is inside a drain pipe. For a repeat clog, find the blockage and check the line before choosing high-pressure cleaning.",
-    "lead": [],
     "sections": [
       {
         "h": "Hydro jetting or snaking?",
@@ -374,7 +366,6 @@
   "privacy": {
     "h1": "Privacy policy",
     "intro": "How this website collects and uses the information you send when you ask about hydro jetting in Kettering.",
-    "lead": [],
     "sections": [
       {
         "h": "Privacy policy",
@@ -401,14 +392,12 @@
         ]
       }
     ],
-    "faqs": [],
     "title": "Privacy Policy | Kettering Hydro Jetting Pros",
     "desc": "How Kettering Hydro Jetting Pros collects and uses information from its hydro jetting request form."
   },
   "terms": {
     "h1": "Terms of service",
     "intro": "The terms that apply when you use this website to learn about hydro jetting in Kettering.",
-    "lead": [],
     "sections": [
       {
         "h": "Terms of service",
@@ -435,7 +424,6 @@
         ]
       }
     ],
-    "faqs": [],
     "title": "Terms of Service | Kettering Hydro Jetting Pros",
     "desc": "Terms for using the Kettering Hydro Jetting Pros website and request form."
   }
